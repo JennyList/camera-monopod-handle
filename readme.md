@@ -15,7 +15,7 @@ This is a 3D printed handle for a camera, with a tripod screw at the top and a p
 
 ## To Assemble:
 
-Cut the bolt as shown, with a hacksaw. Discard the hexagonal head, and fole off any burrs.
+Cut the bolt as shown, with a hacksaw. Discard the hexagonal head, and file off any burrs.
 ![A bolt, with cut marks.](bolt.jpg)
 The threaded part of the bolt should screw into the hole at the top of your print. It's designed such that with a 20mm thread, the required 5mm protrudes to attach to the camera.
 ![The thread, in the top of the handle.](monopod-thread.jpg)

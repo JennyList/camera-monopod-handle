@@ -23,9 +23,16 @@ Meanwhile the straight piece of the bolt should be an interference fit at the po
 ![The thread, in the top of the handle.](monopod-point.jpg)
 I did not use any glue, but if you find your thread or point is loose, you can.
 
+## In Use:
+
+I've now used this with everything from small 35mm cameras through mirrorless digital and DSLR cameras, to 8mm moive cameras. It suits my video style, but if there's an addition I may make in the future it's provision for a Bluetooth trigger.
+![The handle in use with a Canon mirroless camera, photographing the Hackaday website on a laptop screen.](monopod-canon-hackaday.jpg)
+
 ## Licence
 
 This model is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
 
 It uses Stephen Kent's [Knurled Surface Library for OpenSCAD](https://github.com/smkent/knurled-openscad), which is licensed under the Creative Commons CC0 1.0 Universal (Public Domain) License.
+
+
 

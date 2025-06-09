@@ -6,7 +6,7 @@ CC-BY-SA 4.0
 ## About
 
 This is a 3D printed handle for a camera, with a tripod screw at the top and a pointed metal end for greater robustness than a 3D print when resting on a hard surface. I found I needed something a little more than just my mini tripod in the closed position.
-![The handle on a desk, with a Minox 35mm camera attached to it.](img/monopod-with-handle.jpg)
+![The handle on a desk, with a Minox 35mm camera attached to it.](monopod-with-handle.jpg)
 
 ## You Will Need:
 
@@ -16,11 +16,11 @@ This is a 3D printed handle for a camera, with a tripod screw at the top and a p
 ## To Assemble:
 
 Cut the bolt as shown, with a hacksaw. Discard the hexagonal head, and fole off any burrs.
-![A bolt, with cut marks.](img/bolt.jpg)
+![A bolt, with cut marks.](bolt.jpg)
 The threaded part of the bolt should screw into the hole at the top of your print. It's designed such that with a 20mm thread, the required 5mm protrudes to attach to the camera.
-![The thread, in the top of the handle.](img/monopod-thread.jpg)
+![The thread, in the top of the handle.](monopod-thread.jpg)
 Meanwhile the straight piece of the bolt should be an interference fit at the pointed end of the stick. I knocked mine in with some light blows from a small hammer, use a press here if you have one. Then you can grind it to a point. I did this with a bench grinder. The result is bare steel so could corrode, I don't intend to get it wet but I may apply some paint.
-![The thread, in the top of the handle.](img/monopod-point.jpg)
+![The thread, in the top of the handle.](monopod-point.jpg)
 I did not use any glue, but if you find your thread or point is loose, you can.
 
 ## Licence

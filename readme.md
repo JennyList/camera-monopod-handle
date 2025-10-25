@@ -35,5 +35,5 @@ This model is licensed under the [Creative Commons Attribution Share Alike 4.0 I
 
 It uses Stephen Kent's [Knurled Surface Library for OpenSCAD](https://github.com/smkent/knurled-openscad), which is licensed under the Creative Commons CC0 1.0 Universal (Public Domain) License.
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
 
